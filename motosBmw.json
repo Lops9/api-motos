@@ -1,0 +1,85 @@
+
+[
+    {
+      "modelo": "S 1000 RR",
+      "ano": 2023,
+      "preco": 95000,
+      "cilindradas": 1000,
+      "categoria": "Esportiva",
+      "cavalos": 205
+    },
+    {
+      "modelo": "R 1250 GS",
+      "ano": 2023,
+      "preco": 105000,
+      "cilindradas": 1254,
+      "categoria": "Adventure",
+      "cavalos": 136
+    },
+    {
+      "modelo": "F 900 R",
+      "ano": 2023,
+      "preco": 69000,
+      "cilindradas": 895,
+      "categoria": "Naked",
+      "cavalos": 105
+    },
+    {
+      "modelo": "G 310 GS",
+      "ano": 2023,
+      "preco": 42000,
+      "cilindradas": 313,
+      "categoria": "Adventure",
+      "cavalos": 34
+    },
+    {
+      "modelo": "R 18",
+      "ano": 2023,
+      "preco": 150000,
+      "cilindradas": 1802,
+      "categoria": "Cruiser",
+      "cavalos": 91
+    },
+    {
+      "modelo": "S 1000 XR",
+      "ano": 2023,
+      "preco": 98000,
+      "cilindradas": 999,
+      "categoria": "Adventure Sport",
+      "cavalos": 165
+    },
+    {
+      "modelo": "C 400 GT",
+      "ano": 2023,
+      "preco": 48000,
+      "cilindradas": 350,
+      "categoria": "Scooter",
+      "cavalos": 34
+    },
+    {
+      "modelo": "F 750 GS",
+      "ano": 2023,
+      "preco": 82000,
+      "cilindradas": 853,
+      "categoria": "Adventure",
+      "cavalos": 77
+    },
+    {
+      "modelo": "G 310 R",
+      "ano": 2023,
+      "preco": 37000,
+      "cilindradas": 313,
+      "categoria": "Street",
+      "cavalos": 34
+    },
+    {
+      "modelo": "R 1250 RT",
+      "ano": 2023,
+      "preco": 125000,
+      "cilindradas": 1254,
+      "categoria": "Touring",
+      "cavalos": 136
+    }
+  ]
+  
+  

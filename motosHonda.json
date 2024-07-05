@@ -1,0 +1,84 @@
+[
+      {
+        "modelo": "CBR1000RR Fireblade",
+        "ano": 2023,
+        "preco": 85000,
+        "cilindradas": 1000,
+        "categoria": "Esportiva",
+        "cavalos": 214
+      },
+      {
+        "modelo": "CB650R Neo Sports Café",
+        "ano": 2023,
+        "preco": 45000,
+        "cilindradas": 650,
+        "categoria": "Naked",
+        "cavalos": 94
+      },
+      {
+        "modelo": "CRF250F",
+        "ano": 2023,
+        "preco": 28000,
+        "cilindradas": 250,
+        "categoria": "Off-road",
+        "cavalos": 22
+      },
+      {
+        "modelo": "CB500X",
+        "ano": 2023,
+        "preco": 38000,
+        "cilindradas": 500,
+        "categoria": "Adventure",
+        "cavalos": 47
+      },
+      {
+        "modelo": "CB125R",
+        "ano": 2023,
+        "preco": 18000,
+        "cilindradas": 125,
+        "categoria": "Street",
+        "cavalos": 14
+      },
+      {
+        "modelo": "Forza 350",
+        "ano": 2023,
+        "preco": 32000,
+        "cilindradas": 330,
+        "categoria": "Scooter",
+        "cavalos": 29
+      },
+      {
+        "modelo": "CRF450L",
+        "ano": 2023,
+        "preco": 55000,
+        "cilindradas": 450,
+        "categoria": "Dual-sport",
+        "cavalos": 40
+      },
+      {
+        "modelo": "CB1100 RS",
+        "ano": 2023,
+        "preco": 62000,
+        "cilindradas": 1100,
+        "categoria": "Café Racer",
+        "cavalos": 90
+      },
+      {
+        "modelo": "Africa Twin Adventure Sports ES",
+        "ano": 2023,
+        "preco": 98000,
+        "cilindradas": 1100,
+        "categoria": "Adventure",
+        "cavalos": 101
+      },
+      {
+        "modelo": "CB500F",
+        "ano": 2023,
+        "preco": 36000,
+        "cilindradas": 500,
+        "categoria": "Naked",
+        "cavalos": 47
+      }
+    ]
+  
+  

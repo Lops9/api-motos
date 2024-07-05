@@ -1,0 +1,85 @@
+
+  [
+      {
+        "modelo": "YZF-R1",
+        "ano": 2023,
+        "preco": 90000,
+        "cilindradas": 1000,
+        "categoria": "Esportiva",
+        "cavalos": 200
+      },
+      {
+        "modelo": "MT-09",
+        "ano": 2023,
+        "preco": 60000,
+        "cilindradas": 889,
+        "categoria": "Naked",
+        "cavalos": 115
+      },
+      {
+        "modelo": "YZF-R6",
+        "ano": 2023,
+        "preco": 70000,
+        "cilindradas": 600,
+        "categoria": "Esportiva",
+        "cavalos": 117
+      },
+      {
+        "modelo": "MT-07",
+        "ano": 2023,
+        "preco": 45000,
+        "cilindradas": 689,
+        "categoria": "Naked",
+        "cavalos": 74
+      },
+      {
+        "modelo": "XTZ 250 Ténéré",
+        "ano": 2023,
+        "preco": 30000,
+        "cilindradas": 249,
+        "categoria": "Dual-sport",
+        "cavalos": 20
+      },
+      {
+        "modelo": "YZ450FX",
+        "ano": 2023,
+        "preco": 55000,
+        "cilindradas": 449,
+        "categoria": "Off-road",
+        "cavalos": 59
+      },
+      {
+        "modelo": "Tracer 9 GT",
+        "ano": 2023,
+        "preco": 85000,
+        "cilindradas": 890,
+        "categoria": "Touring",
+        "cavalos": 117
+      },
+      {
+        "modelo": "NMAX 160 ABS",
+        "ano": 2023,
+        "preco": 20000,
+        "cilindradas": 155,
+        "categoria": "Scooter",
+        "cavalos": 15
+      },
+      {
+        "modelo": "YZ250X",
+        "ano": 2023,
+        "preco": 35000,
+        "cilindradas": 249,
+        "categoria": "Off-road",
+        "cavalos": 46
+      },
+      {
+        "modelo": "XSR900",
+        "ano": 2023,
+        "preco": 68000,
+        "cilindradas": 847,
+        "categoria": "Retro",
+        "cavalos": 115
+      }
+    ]
+  
+  
